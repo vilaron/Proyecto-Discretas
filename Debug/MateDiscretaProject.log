@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\documentos\matediscreta\matediscretaproject\tarea.h(15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\matediscreta\matediscretaproject\tarea.h(37): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\matediscreta\matediscretaproject\source.cpp(32): warning C4018: '<': no coinciden signed/unsigned
+  MateDiscretaProject.vcxproj -> D:\Documentos\MateDiscreta\MateDiscretaProject\Debug\MateDiscretaProject.exe
