@@ -10,6 +10,7 @@ protected:
 	unsigned int nivel;
 	unsigned int* t;
 	unsigned int horas;
+	//unsigned int* precedentes=new unsigned int;
 public:
 	Tarea(unsigned int n): orden(n)  {
 		srand(time(0));
@@ -46,4 +47,10 @@ public:
 	void setHoras(unsigned int n) {	horas = n; };
 	void genHoras() { horas = rand() % 8 + 1; };
 
+	/*void setPrecedentes(unsigned int o, unsigned int n) {
+		precedentes[o] = n;
+	}
+	int getPrecedentes(int n) {
+		return precedentes[n];
+	}*/
 };

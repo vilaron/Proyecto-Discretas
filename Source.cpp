@@ -27,12 +27,13 @@ void main() {
 				ListaT->setNivel(i, maxNivel);
 			}
 		}
+		//ListaT->genCon();
 		//Tarea* t1 = new Tarea(n);
 		cout << "\t| Tarea |\t| Orden |\t| Nivel |\t| Horas |", e();
 		for (int i = 0; i < ListaT->size(); i++) {
 			ListaT->genHoras(i);
 			e();
-			cout << "\t\t" << i + 1 << "\t\t" << ListaT->getOrden(i) << "\t\t" << ListaT->getNivel(i) << "\t\t" << ListaT->getHoras(i), e();
+			cout << "\t\t"<< i+1 << "\t\t" << ListaT->getOrden(i) << "\t\t" << ListaT->getNivel(i) << "\t\t" << ListaT->getHoras(i), e();
 		}
 	}
 	/*while (n != 0) {
