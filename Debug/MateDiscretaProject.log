@@ -1,5 +1,6 @@
-﻿  Source.cpp
-d:\documentos\matediscreta\matediscretaproject\tarea.h(15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-d:\documentos\matediscreta\matediscretaproject\tarea.h(37): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-d:\documentos\matediscreta\matediscretaproject\source.cpp(32): warning C4018: '<': no coinciden signed/unsigned
-  MateDiscretaProject.vcxproj -> D:\Documentos\MateDiscreta\MateDiscretaProject\Debug\MateDiscretaProject.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (MateDiscretaProject.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Source.cpp
+d:\documentos\matediscreta\proyecto-discretas\tarea.h(16): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\matediscreta\proyecto-discretas\tarea.h(38): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\documentos\matediscreta\proyecto-discretas\source.cpp(33): warning C4018: '<': no coinciden signed/unsigned
+  MateDiscretaProject.vcxproj -> D:\Documentos\MateDiscreta\Proyecto-Discretas\Debug\Proyecto-Discretas.exe
